@@ -1,0 +1,1 @@
+{"version":3,"file":"diagnosis.js","sourceRoot":"","sources":["../../../src/domain/entities/diagnosis.ts"],"names":[],"mappings":"AAUA,MAAM,OAAO,SAAS;IAEF;IACA;IACA;IACA;IAJlB,YACkB,KAAY,EACZ,UAAkB,EAClB,QAAkB,EAClB,SAAiB;QAHjB,UAAK,GAAL,KAAK,CAAO;QACZ,eAAU,GAAV,UAAU,CAAQ;QAClB,aAAQ,GAAR,QAAQ,CAAU;QAClB,cAAS,GAAT,SAAS,CAAQ;IAChC,CAAC;CACL"}
